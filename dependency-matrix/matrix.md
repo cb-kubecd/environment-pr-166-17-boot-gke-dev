@@ -7,3 +7,4 @@ Dependency | Sources | Version | Mismatched versions
 [cb-kubecd/bdd-gh-1582692207](https://github.com/cb-kubecd/bdd-gh-1582692207.git) |  | []() | 
 [cb-kubecd/bdd-nh-1582692207](https://github.com/cb-kubecd/bdd-nh-1582692207.git) |  | []() | 
 [cb-kubecd/bdd-sbrp-import-1582694410](https://github.com/cb-kubecd/bdd-sbrp-import-1582694410.git) |  | []() | 
+[cb-kubecd/bdd-sbhg-import-1582694410](https://github.com/cb-kubecd/bdd-sbhg-import-1582694410.git) |  | []() | 
